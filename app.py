@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Trần Thị Hường - Trường Tiểu học Nguyễn Trãi Phường Hà Giang 1 - ĐT: 0944604867</p>
+    <p>Tác giả: Trần Thị Hường - Trường Tiểu học Nguyễn Trãi - Phường Hà Giang 1 - ĐT: 0944604867</p>
 </div>
 """, unsafe_allow_html=True)
 
